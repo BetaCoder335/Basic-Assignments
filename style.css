@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+}
+
+.title {
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+.subheading {
+    color: aqua;
+    text-align: center;
+}
+
+.Question {
+    color: aliceblue;
+    text-align: left;
+    font-size: x-large;
+}
+
+.Answer {
+    color: papayawhip;
+    text-align: left;
+    font-size: medium;
+}
+
+.Question2 {
+    color: aliceblue;
+    text-align: left;
+    font-size: x-large;
+}
+
+.Answer2 {
+    color: papayawhip;
+    text-align: left;
+    font-size: medium;
+}
+
+.subheading2 {
+    color: crimson;
+    text-align: center;
+    font-size: x-large;
+    border-style: ridge;
+
+}
+
+legend {
+    color: rgb(69, 117, 159);
+    font-weight: bold;
+}
+
+img {
+    float: left;
+}
+
+.description {
+    color: rgb(240, 166, 45);
+    text-align: center;
+}
+
+.thanks {
+    color: crimson;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
