@@ -1,2 +1,2 @@
 # Basic-Assignments
-I'll post basic assignments given in college . &lt;3
+I'll post basic assignments that will given in college . &lt;3
